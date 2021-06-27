@@ -1,0 +1,1 @@
+web: gunicorn project_telemedicina.wsgi --log-file -
