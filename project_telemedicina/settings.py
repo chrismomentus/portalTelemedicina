@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-lpvddy9kqgj2a(d2t4e(npdct6u@hd6bau2&%s^4&!_d@2x#*g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['apidesafiotelemedicina.herokuapp.com']
 
 
 # Application definition
